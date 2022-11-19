@@ -1,0 +1,18 @@
+.search {
+  display: flex;
+  gap: 20px;
+  padding: 50px 10px;
+}
+.search-popup {
+  width: 30%;
+}
+.search-list {
+  width: 70%;
+}
+.backgroud {
+  background-color: rgb(0, 53, 128);
+}
+.center {
+  width: 1200px;
+  margin: 0 auto;
+}

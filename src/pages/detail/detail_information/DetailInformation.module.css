@@ -1,0 +1,32 @@
+.detail-information {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.detail-information-left {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.address {
+  display: inline-block;
+}
+.distance {
+  color: rgb(0, 113, 194);
+  font-size: 20px;
+}
+.price {
+  color: rgb(0, 128, 9);
+  font-size: 20px;
+}
+
+.detail-information button {
+  color: white;
+  background-color: rgb(0, 113, 194);
+  padding: 10px 20px;
+  border: 0;
+  border-radius: 5px;
+  font-weight: bold;
+}

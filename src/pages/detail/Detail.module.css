@@ -1,0 +1,10 @@
+.detail-container {
+  padding: 50px 10px 50px 10px;
+}
+.backgroud {
+  background-color: rgb(0, 53, 128);
+}
+.center {
+  width: 1200px;
+  margin: 0 auto;
+}

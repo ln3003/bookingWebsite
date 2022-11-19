@@ -1,0 +1,10 @@
+.guests-love-container {
+  padding: 20px 10px 70px 10px;
+}
+
+.guests-love-list {
+  display: flex;
+  gap: 20px;
+  padding-top: 20px;
+  color: rgb(68, 68, 68);
+}

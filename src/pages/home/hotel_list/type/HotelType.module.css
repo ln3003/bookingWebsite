@@ -1,0 +1,9 @@
+.hotel-type-container {
+  padding: 20px 10px 0 10px;
+}
+.hotel-type-list {
+  color: rgb(68, 68, 68);
+  padding-top: 20px;
+  display: flex;
+  gap: 20px;
+}
